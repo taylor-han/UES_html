@@ -1,5 +1,5 @@
 # UES_html
- Web files for ues.ucsd.edu (2018)
+ Web files for ues.ucsd.edu (2017-2018)
   <br /> 
  Please note that the /images directory has not been added!
 <br />
@@ -11,3 +11,5 @@
 * [Committees](https://github.com/taylor-han/UES_html/blob/master/Screenshots/committees.pdf) - UES Committees Page
 * [Resources](https://github.com/taylor-han/UES_html/blob/master/Screenshots/resources.pdf) - Resources Page
 * [Join](https://github.com/taylor-han/UES_html/blob/master/Screenshots/join.pdf) - Join Us Page
+<br />
+Please visit [ues.ucsd.edu](https://ues.ucsd.edu) to see the latest site for Undergraduate Economics Society
