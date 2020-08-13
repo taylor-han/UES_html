@@ -12,4 +12,4 @@
 * [Resources](https://github.com/taylor-han/UES_html/blob/master/Screenshots/resources.pdf) - Resources Page
 * [Join](https://github.com/taylor-han/UES_html/blob/master/Screenshots/join.pdf) - Join Us Page
 <br />
-Please visit [ues.ucsd.edu](https://ues.ucsd.edu) to see the latest site for Undergraduate Economics Society
+Please visit https://ues.ucsd.edu to see the latest iteration of Undergraduate Economics Society website, now managed by the current VP Technology Operations.
